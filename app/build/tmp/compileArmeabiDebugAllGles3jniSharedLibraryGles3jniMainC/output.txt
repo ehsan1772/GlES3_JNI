@@ -1,0 +1,4 @@
+See file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/compileArmeabiDebugAllGles3jniSharedLibraryGles3jniMainC/output.txt for all output for compileArmeabiDebugAllGles3jniSharedLibraryGles3jniMainC.
+compiling gl3stub_wrapper.c successful.
+
+Finished compileArmeabiDebugAllGles3jniSharedLibraryGles3jniMainC, see full log file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/compileArmeabiDebugAllGles3jniSharedLibraryGles3jniMainC/output.txt.

@@ -1,0 +1,4 @@
+See file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/linkArm64-v8aDebugAllGles3jniSharedLibrary/output.txt for all output for linkArm64-v8aDebugAllGles3jniSharedLibrary.
+linking libgles3jni.so successful.
+
+Finished linkArm64-v8aDebugAllGles3jniSharedLibrary, see full log file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/linkArm64-v8aDebugAllGles3jniSharedLibrary/output.txt.

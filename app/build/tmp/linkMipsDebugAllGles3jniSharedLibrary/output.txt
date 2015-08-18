@@ -1,0 +1,4 @@
+See file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/linkMipsDebugAllGles3jniSharedLibrary/output.txt for all output for linkMipsDebugAllGles3jniSharedLibrary.
+linking libgles3jni.so successful.
+
+Finished linkMipsDebugAllGles3jniSharedLibrary, see full log file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/linkMipsDebugAllGles3jniSharedLibrary/output.txt.

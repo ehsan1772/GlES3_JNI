@@ -1,0 +1,8 @@
+See file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/compileMipsDebugAllGles3jniSharedLibraryGles3jniMainCpp/output.txt for all output for compileMipsDebugAllGles3jniSharedLibraryGles3jniMainCpp.
+compiling RendererES2.cpp successful.
+
+compiling RendererES3.cpp successful.
+
+compiling gles3jni.cpp successful.
+
+Finished compileMipsDebugAllGles3jniSharedLibraryGles3jniMainCpp, see full log file:///Users/ovenbits/Development/Practice/gles3jni/app/build/tmp/compileMipsDebugAllGles3jniSharedLibraryGles3jniMainCpp/output.txt.
